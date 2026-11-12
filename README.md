@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Jonnala Lalithaswika! 👋
 
-<!--
-**aswikareddy07/aswikareddy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student  
+💻 Aspiring Software Developer  
+🌱 Interested in Software Development, Artificial Intelligence and Web Technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Exploring programming and software development.
+- 💡 Interested in building practical projects and solving problems.
+- 📚 Learning Data Structures and Algorithms.
+- 🤝 Open to internships, collaborations and learning opportunities.
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, Java, C++  
+**Web Technologies:** HTML, CSS, JavaScript, React.js, Node.js, Express.js  
+**Database:** MongoDB  
+**Core Subjects:** DBMS, Operating Systems, DSA
+
+## 📂 Projects
+
+- **Employee Management System** – C++ mini project.
+- **Food Calorie Lookup System** – Java mini project.
+- **Smart Attendance System** – Face recognition using Python and OpenCV.
+- **Restaurant Performance Analytics** – Data analysis project.
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/jonnala-lalithaswika-3b6917337
+- GitHub: https://github.com/aswikareddy07
+
+---
+
+⭐ Thanks for visiting my profile!
